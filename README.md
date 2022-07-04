@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Eyad0L
-- 👀 I’m interested in Python, C++, and AI
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on small projects to learn
-- 📫 How to reach me e.a.hadhrami@gmail.com
+IDK what I am doing here but its fun.
+Looking for small projects (C++ / Python / JS)
